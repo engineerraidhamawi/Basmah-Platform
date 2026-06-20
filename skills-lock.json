@@ -7,6 +7,12 @@
       "skillPath": ".agents/skills/impeccable/SKILL.md",
       "computedHash": "c3fc1193e4777c1fde1e8455a6ce23bbc0ae506dabb026b639cf594fdfa6c733"
     },
+    "notebooklm-research": {
+      "source": "claude-world/notebooklm-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "feb6fcc465a0ef0e7ae791e1582364c8cdad997879b487c7d63959a0ecc6c7f4"
+    },
     "skill-creator": {
       "source": "anthropics/skills",
       "sourceType": "github",
